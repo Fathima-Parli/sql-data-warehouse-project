@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 # About Me
 
 Hi! I'm **Fathima**.  
-I'm an Btech Cse Student and passionate about data 
+I'm an Btech Cse Student and passionate about data field, I love turning raw data into meaningful insights.
